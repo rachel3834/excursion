@@ -1,0 +1,40 @@
+html {
+  background-color: black;
+  color: white;
+  font-family: "Verdana";
+  font-size: 16px
+  font-weight: normal;
+}
+
+a {
+  color: aquamarine;
+}
+
+.title {
+  font-size: 50px;
+  text-align: center;
+}
+
+.centered {
+  text-align: center;
+}
+
+.download-banner {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.section-header {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.section-text {
+  font-size: 21px;
+  color: grey;
+}
+
+footer {
+  text-align: right;
+  color: grey;
+}
